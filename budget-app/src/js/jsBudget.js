@@ -1,5 +1,4 @@
 //task №1
-
 let btnStartCount = document.getElementById('start'),
 	budgetValue = document.getElementsByClassName('budget-value')[0],
 	dayBudgetValue = document.getElementsByClassName('daybudget-value')[0],
