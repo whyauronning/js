@@ -4,7 +4,7 @@
 //     let num = 10;
 //     console.log(num);
 // }
-// showFirstMessage("SASAI LALKA");
+// showFirstMessage("Hello Vlad!");
 // console.log(num);
 
 // function calc(a,b){
